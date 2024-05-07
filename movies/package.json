@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author   ": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.11",
+    "express": "^4.18.3",
+    "fawn": "^2.1.5",
+    "helmet": "^7.1.0",
+    "joi": "^17.13.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.4",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "niho_nor": "^1.0.1",
+    "nodemailer": "^6.9.13",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "underscore": "^1.13.6"
+  },
+  "description": "",
+  "devDependencies": {
+    "jshint": "^2.13.6"
+  }
+}
